@@ -1,0 +1,38 @@
+.a{color: rgba(0, 255, 255, 0.342);
+    text-shadow: 2px 2px red;
+}
+.b{ color: blanchedalmond;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;;}
+.c{ 
+    color: #6a5acd;
+    border-style: none;
+    text-shadow: 1px 1px 2px black, 0 0 25px #ee82ee, 0 0 5px darkblue;;}
+
+
+    .v {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #4CAF50;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+      }
+.e{
+    color: 002B5B;
+    text-decoration-line: underline;
+    text-shadow: 1px 1px 2px 25316D, 0 0 25px FFB200 , 0 0 5px ;
+    font-family: fantasy ; 
+    font-size: 40px;
+}
+.f{
+    color: 0F3460 ;
+    font-size: medium;
+    text-shadow: 2px blue ;
+}
